@@ -16,6 +16,7 @@ Atualmente, estou cursando **Engenharia de Software** e me dedicando ao desenvol
 ### Front-End 🌐
 - HTML
 - CSS
+- JavaScript
 - Frameworks como Flask para Python
 
 ### Banco de Dados 🗃
